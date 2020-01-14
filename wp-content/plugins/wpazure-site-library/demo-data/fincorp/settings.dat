@@ -1,0 +1,27 @@
+a:4:{s:8:"template";s:7:"wpazure";s:4:"mods";a:9:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:7:"primary";i:4;s:6:"footer";i:4;}s:18:"custom_css_post_id";i:418;s:23:"footer_background_color";s:7:"#1a1a1a";s:25:"azure_footer_bar_bg_color";s:7:"#1a1a1a";s:11:"custom_logo";i:512;s:13:"color_primary";s:7:"#4064d7";s:13:"headings_font";a:7:{s:11:"font-family";s:5:"Rubik";s:7:"variant";s:3:"500";s:11:"line-height";s:3:"1.5";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:500;s:10:"font-style";s:6:"normal";}s:9:"body_font";a:9:{s:11:"font-family";s:5:"Rubik";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"16px";s:14:"text-transform";s:4:"none";s:11:"line-height";s:3:"1.5";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}}s:7:"options";a:2:{s:9:"site_icon";s:3:"502";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:789:"h1.site-title{
+	margin-bottom: 0px;
+}
+
+.az-agency2-contact-form .wpcf7-form-control-wrap input[type="text"],
+.az-agency2-contact-form .wpcf7-form-control-wrap input[type="email"]{
+	height: 50px;
+	padding: 15px;
+}
+.az-agency2-contact-form .wpcf7-form-control-wrap input[type="text"],
+.az-agency2-contact-form .wpcf7-form-control-wrap input[type="email"],
+.az-agency2-contact-form label,
+.az-agency2-contact-form .wpcf7-form-control-wrap textarea{
+	width: 100%;
+}
+.az-agency2-contact-form .wpcf7-form-control-wrap textarea{
+	height: 150px;
+}
+.az-agency2-contact-form input[type="submit"]{
+	    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #4064d7 !important;
+    border-radius: 50px 50px 50px 50px;
+    padding: 13px 25px 13px 25px;
+}";}

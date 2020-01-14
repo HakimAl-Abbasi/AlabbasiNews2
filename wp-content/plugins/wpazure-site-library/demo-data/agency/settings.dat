@@ -1,0 +1,40 @@
+a:4:{s:8:"template";s:7:"wpazure";s:4:"mods";a:8:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:14;}s:18:"custom_css_post_id";i:342;s:11:"custom_logo";i:374;s:25:"azure_footer_widgt_layout";s:8:"layout-3";s:36:"azure_footer_copyright_layout_layout";s:17:"footer_bar_center";s:28:"azure_footer_bar_section_two";s:4:"none";s:9:"body_font";a:9:{s:11:"font-family";s:9:"Open Sans";s:7:"variant";s:7:"regular";s:9:"font-size";s:4:"14px";s:14:"text-transform";s:4:"none";s:11:"line-height";s:3:"1.5";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}}s:7:"options";a:2:{s:9:"site_icon";s:3:"377";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:714:"/* Contact Form CSS */
+.agency-contact-form input[type="text"],
+.agency-contact-form input[type="email"]{
+	width: 100%;
+	height: 50px;
+	padding: 0 15px;
+	color: #b6b6b6;
+	background-color: #fff;
+}
+.agency-contact-form label{
+	width: 100%;
+}
+.agency-contact-form textarea{
+	width: 100%;
+	padding: 15px;
+	color: #b6b6b6;
+	background-color: #fff;
+}
+.agency-contact-form .wpcf7-submit{
+	padding: 10px 25px;
+  color: #ffffff !important;
+  border-radius: 60px !important;
+  cursor: pointer;
+	background-color: #f5443a;
+}
+
+
+/* Placeholder CSS */
+::-webkit-input-placeholder {
+  color: #cecece;
+}
+::-moz-placeholder {
+  color: #cecece;
+}
+:-ms-input-placeholder {
+  color: #cecece;
+}
+:-moz-placeholder {
+  color: #cecece;
+}";}

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpazure Site Library\n"
+"POT-Creation-Date: 2019-06-26 11:55+0530\n"
+"PO-Revision-Date: 2019-06-26 11:55+0530\n"
+"Last-Translator: wpazure <admin@wpazure.com>\n"
+"Language-Team: Wpazure <admi@wpazure.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wplab\\wp-content\\plugins"
+"\\wpazure-site-library\n"
+
+#: D:\xampp\htdocs\wplab\wp-content\plugins\wpazure-site-library/wpazure-site-library.php:31
+msgid "Wpazure Demo import"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\plugins\wpazure-site-library/wpazure-site-library.php:32
+msgid "Wpazure site library"
+msgstr ""
+
+#: D:\xampp\htdocs\wplab\wp-content\plugins\wpazure-site-library/wpazure-site-library.php:73
+msgid "Please install the Bookly plugin before importing this demo"
+msgstr ""
